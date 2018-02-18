@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<year-long-membership>
+  <productCode>bdae</productCode>
+  <productType>Y</productType>
+  <startDate>2017-05-10</startDate>
+  <endDate>2018-05-09</endDate>
+  <address>
+    <street>Strength Street</street>
+    <city>Omaha</city>
+    <state>NE</state>
+    <zip>83433</zip>
+    <country>USA</country>
+  </address>
+  <name>Elite</name>
+  <cost>600.0</cost>
+</year-long-membership>
+<rentals>
+  <productCode>d38d</productCode>
+  <productType>R</productType>
+  <name>Climbing Gear</name>
+  <cost>15.0</cost>
+</rentals>
+<day-long-membership>
+  <productCode>a991</productCode>
+  <productType>D</productType>
+  <startDate>2017-02-06</startDate>
+  <address>
+    <street>2812 Muscle Ave</street>
+    <city>Lincoln</city>
+    <state>NE</state>
+    <zip>68455</zip>
+    <country>USA</country>
+  </address>
+  <cost>12.0</cost>
+</day-long-membership>
+<parkingpass>
+  <productCode>930d</productCode>
+  <productType>P</productType>
+  <cost>30.0</cost>
+</parkingpass>
+<year-long-membership>
+  <productCode>009k</productCode>
+  <productType>Y</productType>
+  <startDate>2017-07-1</startDate>
+  <endDate>2018-06-30</endDate>
+  <address>
+    <street>Lift Lane</street>
+    <city>Chicago</city>
+    <state>IL</state>
+    <zip>99384</zip>
+    <country>USA</country>
+  </address>
+  <name>Basic</name>
+  <cost>400.0</cost>
+</year-long-membership>

@@ -1,0 +1,74 @@
+{
+  "personCode": "23df",
+  "firstName": "Tom",
+  "lastName": "Anderson",
+  "address": {
+    "street": "6112 NW 2nd Circle",
+    "city": "Lincoln",
+    "state": "NE",
+    "zip": "68528",
+    "country": "USA"
+  },
+  "emails": [
+    "anderson.tom777@gmail.com",
+    "ratchet127@yahoo.com"
+  ]
+},
+{
+  "personCode": "6h9i",
+  "firstName": "Leonard",
+  "lastName": "Tan",
+  "address": {
+    "street": "3218 University drive",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "74384",
+    "country": "USA"
+  },
+  "emails": [
+    "uverworld950@gmail.com"
+  ]
+},
+{
+  "personCode": "3d9a",
+  "firstName": "Ashley",
+  "lastName": "Goosic",
+  "address": {
+    "street": "2321 Big Street",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "32654",
+    "country": "USA"
+  },
+  "emails": [
+    "ashley.goosic@huskers.unl.edu"
+  ]
+},
+{
+  "personCode": "9123",
+  "firstName": "Sarah",
+  "lastName": "Bourland",
+  "address": {
+    "street": "2837 Little Avenue",
+    "city": "New Port",
+    "state": " NJ",
+    "zip": "32832",
+    "country": "USA"
+  },
+  "emails": []
+},
+{
+  "personCode": "2vvv",
+  "firstName": "Bradley",
+  "lastName": "Scheuler",
+  "address": {
+    "street": "4201 build a bear workshop",
+    "city": "Bloomington",
+    "state": "MN",
+    "zip": "85748",
+    "country": "USA"
+  },
+  "emails": [
+    "brad@unl.edu"
+  ]
+},

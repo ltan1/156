@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<person>
+  <personCode>23df</personCode>
+  <firstName>Tom</firstName>
+  <lastName>Anderson</lastName>
+  <address>
+    <street>6112 NW 2nd Circle</street>
+    <city>Lincoln</city>
+    <state>NE</state>
+    <zip>68528</zip>
+    <country>USA</country>
+  </address>
+  <emails>
+    <email>anderson.tom777@gmail.com</email>
+    <email>ratchet127@yahoo.com</email>
+  </emails>
+</person>
+<person>
+  <personCode>6h9i</personCode>
+  <firstName>Leonard</firstName>
+  <lastName>Tan</lastName>
+  <address>
+    <street>3218 University drive</street>
+    <city>Omaha</city>
+    <state>NE</state>
+    <zip>74384</zip>
+    <country>USA</country>
+  </address>
+  <emails>
+    <email>uverworld950@gmail.com</email>
+  </emails>
+</person>
+<person>
+  <personCode>3d9a</personCode>
+  <firstName>Ashley</firstName>
+  <lastName>Goosic</lastName>
+  <address>
+    <street>2321 Big Street</street>
+    <city>San Antonio</city>
+    <state>TX</state>
+    <zip>32654</zip>
+    <country>USA</country>
+  </address>
+  <emails>
+    <email>ashley.goosic@huskers.unl.edu</email>
+  </emails>
+</person>
+<person>
+  <personCode>9123</personCode>
+  <firstName>Sarah</firstName>
+  <lastName>Bourland</lastName>
+  <address>
+    <street>2837 Little Avenue</street>
+    <city>New Port</city>
+    <state> NJ</state>
+    <zip>32832</zip>
+    <country>USA</country>
+  </address>
+  <emails/>
+</person>
+<person>
+  <personCode>2vvv</personCode>
+  <firstName>Bradley</firstName>
+  <lastName>Scheuler</lastName>
+  <address>
+    <street>4201 build a bear workshop</street>
+    <city>Bloomington</city>
+    <state>MN</state>
+    <zip>85748</zip>
+    <country>USA</country>
+  </address>
+  <emails>
+    <email>brad@unl.edu</email>
+  </emails>
+</person>

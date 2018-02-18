@@ -1,0 +1,136 @@
+{
+  "memberCode": "M001",
+  "type": "General",
+  "primaryContact": {
+    "personCode": "2vvv",
+    "firstName": "Bradley",
+    "lastName": "Scheuler",
+    "address": {
+      "street": "4201 build a bear workshop",
+      "city": "Bloomington",
+      "state": "MN",
+      "zip": "85748",
+      "country": "USA"
+    },
+    "emails": [
+      "brad@unl.edu"
+    ]
+  },
+  "memberName": "JP Fowler",
+  "memberAddress": {
+    "street": "3289 Telluride Circle",
+    "city": "Lincoln",
+    "state": "NE",
+    "zip": "38222",
+    "country": "USA"
+  }
+},
+{
+  "memberCode": "M002",
+  "type": "Student",
+  "primaryContact": {
+    "personCode": "2vvv",
+    "firstName": "Bradley",
+    "lastName": "Scheuler",
+    "address": {
+      "street": "4201 build a bear workshop",
+      "city": "Bloomington",
+      "state": "MN",
+      "zip": "85748",
+      "country": "USA"
+    },
+    "emails": [
+      "brad@unl.edu"
+    ]
+  },
+  "memberName": "Grant Zebold",
+  "memberAddress": {
+    "street": "3289 Telluride Circle",
+    "city": " Lincoln",
+    "state": "NE",
+    "zip": "38222",
+    "country": "USA"
+  }
+},
+{
+  "memberCode": "M003",
+  "type": "General",
+  "primaryContact": {
+    "personCode": "3d9a",
+    "firstName": "Ashley",
+    "lastName": "Goosic",
+    "address": {
+      "street": "2321 Big Street",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "32654",
+      "country": "USA"
+    },
+    "emails": [
+      "ashley.goosic@huskers.unl.edu"
+    ]
+  },
+  "memberName": "Matt Andersen",
+  "memberAddress": {
+    "street": "4921 Hacha Street",
+    "city": "Chambers",
+    "state": "NE",
+    "zip": "39222",
+    "country": "USA"
+  }
+},
+{
+  "memberCode": "M004",
+  "type": "Student",
+  "primaryContact": {
+    "personCode": "23df",
+    "firstName": "Tom",
+    "lastName": "Anderson",
+    "address": {
+      "street": "6112 NW 2nd Circle",
+      "city": "Lincoln",
+      "state": "NE",
+      "zip": "68528",
+      "country": "USA"
+    },
+    "emails": [
+      "anderson.tom777@gmail.com",
+      "ratchet127@yahoo.com"
+    ]
+  },
+  "memberName": "Ronald Anderson",
+  "memberAddress": {
+    "street": " 9227 South 28th Street",
+    "city": "Lincoln",
+    "state": "NE",
+    "zip": "68516",
+    "country": "USA"
+  }
+},
+{
+  "memberCode": "M005",
+  "type": "General",
+  "primaryContact": {
+    "personCode": "6h9i",
+    "firstName": "Leonard",
+    "lastName": "Tan",
+    "address": {
+      "street": "3218 University drive",
+      "city": "Omaha",
+      "state": "NE",
+      "zip": "74384",
+      "country": "USA"
+    },
+    "emails": [
+      "uverworld950@gmail.com"
+    ]
+  },
+  "memberName": "Friend Buddy",
+  "memberAddress": {
+    "street": "3922 North 18th Street",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "88656",
+    "country": "USA"
+  }
+},

@@ -1,0 +1,137 @@
+<?xml version="1.0" ?>
+<member>
+  <memberCode>M001</memberCode>
+  <type>General</type>
+  <primaryContact>
+    <personCode>2vvv</personCode>
+    <firstName>Bradley</firstName>
+    <lastName>Scheuler</lastName>
+    <address>
+      <street>4201 build a bear workshop</street>
+      <city>Bloomington</city>
+      <state>MN</state>
+      <zip>85748</zip>
+      <country>USA</country>
+    </address>
+    <emails>
+      <email>brad@unl.edu</email>
+    </emails>
+  </primaryContact>
+  <memberName>JP Fowler</memberName>
+  <memberAddress>
+    <street>3289 Telluride Circle</street>
+    <city>Lincoln</city>
+    <state>NE</state>
+    <zip>38222</zip>
+    <country>USA</country>
+  </memberAddress>
+</member>
+<member>
+  <memberCode>M002</memberCode>
+  <type>Student</type>
+  <primaryContact>
+    <personCode>2vvv</personCode>
+    <firstName>Bradley</firstName>
+    <lastName>Scheuler</lastName>
+    <address>
+      <street>4201 build a bear workshop</street>
+      <city>Bloomington</city>
+      <state>MN</state>
+      <zip>85748</zip>
+      <country>USA</country>
+    </address>
+    <emails>
+      <email>brad@unl.edu</email>
+    </emails>
+  </primaryContact>
+  <memberName>Grant Zebold</memberName>
+  <memberAddress>
+    <street>3289 Telluride Circle</street>
+    <city> Lincoln</city>
+    <state>NE</state>
+    <zip>38222</zip>
+    <country>USA</country>
+  </memberAddress>
+</member>
+<member>
+  <memberCode>M003</memberCode>
+  <type>General</type>
+  <primaryContact>
+    <personCode>3d9a</personCode>
+    <firstName>Ashley</firstName>
+    <lastName>Goosic</lastName>
+    <address>
+      <street>2321 Big Street</street>
+      <city>San Antonio</city>
+      <state>TX</state>
+      <zip>32654</zip>
+      <country>USA</country>
+    </address>
+    <emails>
+      <email>ashley.goosic@huskers.unl.edu</email>
+    </emails>
+  </primaryContact>
+  <memberName>Matt Andersen</memberName>
+  <memberAddress>
+    <street>4921 Hacha Street</street>
+    <city>Chambers</city>
+    <state>NE</state>
+    <zip>39222</zip>
+    <country>USA</country>
+  </memberAddress>
+</member>
+<member>
+  <memberCode>M004</memberCode>
+  <type>Student</type>
+  <primaryContact>
+    <personCode>23df</personCode>
+    <firstName>Tom</firstName>
+    <lastName>Anderson</lastName>
+    <address>
+      <street>6112 NW 2nd Circle</street>
+      <city>Lincoln</city>
+      <state>NE</state>
+      <zip>68528</zip>
+      <country>USA</country>
+    </address>
+    <emails>
+      <email>anderson.tom777@gmail.com</email>
+      <email>ratchet127@yahoo.com</email>
+    </emails>
+  </primaryContact>
+  <memberName>Ronald Anderson</memberName>
+  <memberAddress>
+    <street> 9227 South 28th Street</street>
+    <city>Lincoln</city>
+    <state>NE</state>
+    <zip>68516</zip>
+    <country>USA</country>
+  </memberAddress>
+</member>
+<member>
+  <memberCode>M005</memberCode>
+  <type>General</type>
+  <primaryContact>
+    <personCode>6h9i</personCode>
+    <firstName>Leonard</firstName>
+    <lastName>Tan</lastName>
+    <address>
+      <street>3218 University drive</street>
+      <city>Omaha</city>
+      <state>NE</state>
+      <zip>74384</zip>
+      <country>USA</country>
+    </address>
+    <emails>
+      <email>uverworld950@gmail.com</email>
+    </emails>
+  </primaryContact>
+  <memberName>Friend Buddy</memberName>
+  <memberAddress>
+    <street>3922 North 18th Street</street>
+    <city>Des Moines</city>
+    <state>IA</state>
+    <zip>88656</zip>
+    <country>USA</country>
+  </memberAddress>
+</member>

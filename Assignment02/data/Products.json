@@ -1,0 +1,54 @@
+{
+  "startDate": "2017-05-10",
+  "endDate": "2018-05-09",
+  "address": {
+    "street": "Strength Street",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "83433",
+    "country": "USA"
+  },
+  "name": "Elite",
+  "cost": 600.0,
+  "productCode": "bdae",
+  "productType": "Y"
+},
+{
+  "name": "Climbing Gear",
+  "cost": 15.0,
+  "productCode": "d38d",
+  "productType": "R"
+},
+{
+  "startDate": "2017-02-06",
+  "address": {
+    "street": "2812 Muscle Ave",
+    "city": "Lincoln",
+    "state": "NE",
+    "zip": "68455",
+    "country": "USA"
+  },
+  "cost": 12.0,
+  "productCode": "a991",
+  "productType": "D"
+},
+{
+  "cost": 30.0,
+  "productCode": "930d",
+  "productType": "P"
+},
+{
+  "startDate": "2017-07-1",
+  "endDate": "2018-06-30",
+  "address": {
+    "street": "Lift Lane",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "99384",
+    "country": "USA"
+  },
+  "name": "Basic",
+  "cost": 400.0,
+  "productCode": "009k",
+  "productType": "Y"
+},
